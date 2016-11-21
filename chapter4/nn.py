@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from math import tanh
 from pysqlite2 import dbapi2 as sqlite
 def dtanh(y):
